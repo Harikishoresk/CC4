@@ -1,4 +1,4 @@
-# Plag4
+# Custom4
 Harikishore Vasudevan, Allen Joseph Antony
 
 We have chosen to create the game connect-4(four).
