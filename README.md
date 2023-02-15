@@ -1,4 +1,4 @@
-# CC4
+# DIP392-CC4
 Harikishore Vasudevan-211ADB011, Allen Joseph Antony-211ADB009
 
 We have chosen to create the game connect-4(four).
